@@ -1,0 +1,23 @@
+.input-container{
+    position: relative;
+    margin-bottom: 20px;
+
+}
+.icon-input{
+    padding: 10px 15px 10px 45px;
+    border: 2px solid royalblue;
+    border-radius: 25px;
+    width: 300px;
+    color: black;
+    background-color: white;
+    outline: none;
+}
+
+.input-icon{
+    position: absolute;
+    top:20%;
+    left: 25px;
+    transform: translate(-50%);
+    color: gray;
+    font-size: 20px;
+}
